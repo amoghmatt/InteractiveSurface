@@ -1,6 +1,8 @@
 # InteractiveSurface
 Interactive Projected Surface controlled by hovering your hand over the projection, detected via a Kinect.
 
+Written during my MSc in Sound and Music Computing at Queen Mary University of London (2017 to 2018). It was a project for the Interactive Digital Multimedia Techniques (IDMT) module.
+
 Demo Video: https://youtu.be/dA5SCVDZzOg
 
 The project consists of an application designed via processing which is projected onto a surface. The hand movement detection is done via a Microsoft Kinect V1. The application displays an interactive screen consisting of an animation of the day’s weather along with the details and the forecast for the next seven days, the top ten headlines from BBC news and a games folder. All of which can be interacted with by waving the hand over the projection.
